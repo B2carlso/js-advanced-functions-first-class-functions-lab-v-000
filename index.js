@@ -16,3 +16,5 @@ const selectingDrivers = [
      return fare * int;
    }
  }
+
+ const fareDoubler = createFareMultiplier(2);
